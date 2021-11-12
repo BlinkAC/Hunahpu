@@ -17,8 +17,9 @@ NOTA: Por cuestiones de costos y tiempos la apliación no pudo llegar a su fin, 
 - Completar los departamentos con todos los productos usuales.
 - Agregar un modulo si al escanear un codigo de barras no se encuentra el producto y que usuario pueda solicitarlo.
 - Una cuarta pantalla de productos mas buscados o en rebajas.
-
-Ejemplo en acción: 
+- Manejo de estados de widgets (Ej. Corazon de favoritos).
+-
+Ejemplo en acción: https://youtu.be/VPltUx-kDPs
 
 ## Getting Started
 
