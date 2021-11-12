@@ -1,0 +1,44 @@
+[{
+    "id": 0,
+    "nombre": "Afeitado y depilación",
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00004740013071L.jpg",
+    "subDepts": ["Depilación", "Afeitado"]
+},
+{
+    "id": 1,
+    "nombre": "Cuidado corporal",
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00731947005807L.jpg",
+    "subDepts": ["Desodorante para Mujer", "Desodorante para Hombre", "Jabón de baño y Gel", "Crema corporal", "Hígiene personal"
+    ,"Bloqueador y bronceado", "Fragancias", "Accesorios de baño"] 
+},
+{
+    "id": 2,
+    "nombre": "Cuidado del cabello",
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105933471L.jpg",
+    "subDepts": ["Acondicionador", "Shampoo", "Crema para peinar", "Tratamiento capilar", "Gel, mousse y spray", "Tinte femenino",
+    "Tinte masculino", "Cepillos y accesorios"]
+},
+{
+    "id": 3,
+    "nombre": "Cuidado de mano",
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00007050111346L.jpg",
+    "subDepts": ["Jabón liquido", "Crema de manos", "Manicure"]
+},
+{
+    "id": 4,
+    "nombre": "Cuidado bucal" ,
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105700637L.jpg",
+    "subDepts": ["Salud bucal infantil", "Pasta dental", "Cepillos dentales", "Enjuague bucal", "Especiales"]
+},
+{
+    "id": 5,
+    "nombre": "Cuidado facial" ,
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00360054209808L.jpg",
+    "subDepts": ["Crema facial y tratamientos", "Limpiador facial", "Toallitas faciales", "Antiacné", "Accesorios" ]
+},
+{
+    "id": 6,
+    "nombre": "Cosmeticos",
+    "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00007124934325L.jpg",
+    "subDepts": ["Base y maquillaje", "Labiales", "Máscar de pestañas", "Delineadores", "Desmaquillantes", "Accesorios"]
+}]

@@ -1,0 +1,185 @@
+[
+    {
+        "id": 0,
+        "nombre": "Café, Té y Saborizantes",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwca3d740b/images/product/7501058620095-A.jpg",
+        "subDepts": [
+            "Té liquido",
+            "Café en grano",
+            "Café molido",
+            "Crema para café",
+            "Soluble",
+            "Capsulas de café",
+            "Café instantaneo",
+            "Té verde",
+            "Té de manzanilla",
+            "Té organico",
+            "Saborizantes en polvo"
+        ]
+    },
+    {
+        "id": 1,
+        "nombre": "Pan dulce y Empacado",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw7e03dc4f/images/product/7501030478386-A.jpg",
+        "subDepts": [
+            "Pan de caja",
+            "Pan dulce empaquetado y Pastelitos",
+            "Bollos y Hot Dogs",
+            "Pan tostado",
+            "Empaniadores"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Cereales, Avenas y Barras",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8335d6ef/images/product/7501008042854-A.jpg",
+        "subDepts": [
+            "Cereales",
+            "Barras",
+            "Avena y Granola"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Enlatados y Conservas",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw2132085c/images/product/7501017003013-A.jpg",
+        "subDepts": [
+            "Vegetales",
+            "Pescados y Mariscos",
+            "Carnes",
+            "Chiles",
+            "Frutas en almíbar"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Sopas, Pastas e Instantaneos",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwf971336a/images/product/7506306310568-A.jpg",
+        "subDepts": [
+            "Pastas",
+            "Sopas de Pasta",
+            "Cremas",
+            "Sopas instantaneas",
+            "Puré instanteneo"
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Galletas",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw35c19042/images/product/7622210833938-A.jpg",
+        "subDepts": [
+            "De avena y cereal",
+            "Crutones y saladas",
+            "Dulces"
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Aceites",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw02dfed86/images/product/8410010272564-A.jpg",
+        "subDepts": [
+            "Aceites de maíz",
+            "Aceite de oliva",
+            "De semillas y vegetal",
+            "Manteca"
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Arroz, Frijol y Semillas",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b556748/images/product/7501071301063-A.jpg",
+        "subDepts": [
+            "Arroz",
+            "Frijoles",
+            "Semillas"
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Adereos y Salsas",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwa3bfccd2/images/product/7501005151979-A.jpg",
+        "subDepts": [
+            "BBQ y Carnes",
+            "Catsup",
+            "Mayonesa",
+            "Mostazas",
+            "Para ensaldas",
+            "Para spaguetti",
+            "Salsa picante",
+            "Salsas y Condimentos para Sushi",
+            "Vinagre"
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Especias y Sazonadores",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9436141d/images/product/44774056016-A.jpg",
+        "subDepts": [
+            "Condimentos",
+            "Consomés",
+            "Mole y adobo",
+            "Sal de mesa",
+            "Sazonadores",
+            "Chiles secos"
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Miel y Mermeladas",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw3928654a/images/product/7501003336521-A.jpg",
+        "subDepts": [
+            "Crema de cacahuate y Chocolate",
+            "Miel",
+            "Mermeladas",
+            "Cajetas"
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Azúcar y Sustitutos",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw0bb27735/images/product/7501096201201-A.jpg",
+        "subDepts": [
+            "Azúcar",
+            "Granulada",
+            "Stevia",
+            "Sucralosa"
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Botanas",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw0f2fa529/images/product/7501011167674-A.jpg",
+        "subDepts": [
+            "Aceitunas",
+            "Dips",
+            "Frituras",
+            "Palomitas",
+            "Semillas para botanas"
+        ]
+    },
+    {
+        "id": 13,
+        "nombre": "Dulces y chocolates",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw907f2620/images/product/7501024530250_A.jpg",
+        "subDepts": [
+            "Enchilados",
+            "Caramelos y Paletas",
+            "Chicles",
+            "Chocolates",
+            "Gomitas y Bombones",
+            "Mexicanos"
+        ]
+    },
+    {
+        "id": 14,
+        "nombre": "Harinas y Reposteria",
+        "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8170da19/images/product/7501761869156-A.jpg",
+        "subDepts": [
+            "Gelatina en polvo",
+            "Flan en polvo",
+            "Harina de trigo",
+            "Para Hot Cakes",
+            "Reposteria"
+        ]
+    }
+]

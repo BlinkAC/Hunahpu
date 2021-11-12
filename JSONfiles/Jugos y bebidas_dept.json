@@ -1,0 +1,33 @@
+[
+    {
+        "id": 0,
+        "nombre": "Agua",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750108680107L.jpg",
+        "subDepts":["Agua natural", "Agua mineral", "Agua de sabor"]
+    },
+    {
+        "id": 1,
+        "nombre": "Bebidas energeticas y deportivas",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105531767L.jpg",
+        "subDepts": ["Bebidas deportivas", "Bebidas energizantes", "Suero"]
+    },
+    {
+        "id":2,
+        "nombre": "Jugos y néctares",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105533385L.jpg",
+        "subDepts": ["Jugo de frutas", "Néctares", "Jugo de soya", "Jugo de verduras"]
+    },
+    {
+        "id": 3,
+        "nombre": "Refrescos",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105530474L.jpg",
+        "subDepts": ["Sabor cola", "Ligth y sin azúcar","De sabor"]
+    },
+    {
+        "id": 4,
+        "nombre": "Aditivos en polvo",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00762221056312L.jpg",
+        "subDepts": ["Atole", "Chocolate en polvo", "Jugo en polvo"]
+    }
+
+]

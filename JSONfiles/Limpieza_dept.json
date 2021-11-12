@@ -1,0 +1,26 @@
+[
+    {"id": 0,
+    "nombre": "Aromatizantes",
+    "imageUrl": "https://www.raumduftshop.de/media/image/04/65/fb/diffuser_seashore_millefiori_meeresbrise_600x600.jpg.pagespeed.ce.VTkPAE8-X6.jpg",
+    "subDepts": ["Aromatizantes para baño", "Aromatizantes para auto", "Aromatizantes para ambiente"]
+    },
+    {
+        "id": 1,
+        "nombre": "Papel higiénico y servilletas",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750194345845L.jpg",
+        "subDepts":["Servilletas y toallas de papel", "Papel higiénico"]
+    },
+    {
+        "id": 2,
+        "nombre": "Lavanderia",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750102541300L.jpg" ,
+        "subDepts":["Detergente", "Suavizante", "Quitamanchas", "Jabón en barra", "Quitamanchas"]
+    },
+    {
+        "id": 3,
+        "nombre": "Pisos",
+        "imageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750102540136L2.jpg",
+        "subDepts":["Jergas y trapos", "Limpiadores", "Insecticidas"]
+    }
+
+]
